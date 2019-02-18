@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Slider Tutorial</string>
+    <string name="position" translatable="false">position</string>
+    <string name="title">Title</string>
+    <string name="ok">Tamam</string>
+    <string name="title_location_permission">Konum İzni</string>
+    <string name="text_location_permission">Bu işlemi gerçekleştirmek için konumunuza ulaşmamız gerekmektedir.</string>
+    <string name="cur_code"><![CDATA[Cur Code —>]]></string>
+    <string name="cur_name">Cur Name :</string>
+    <string name="cur_name_bel">Cur Name Bel :</string>
+    <string name="cur_name_eng">Cur Name Eng :</string>
+</resources>

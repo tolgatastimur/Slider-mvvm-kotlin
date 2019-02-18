@@ -1,0 +1,4 @@
+#Mon Feb 18 14:00:34 EET 2019
+base.0=/Users/kuka/Slider-mvvm-kotlin/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex
